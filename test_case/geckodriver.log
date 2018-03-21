@@ -1,0 +1,15 @@
+1521447743655	geckodriver	INFO	geckodriver 0.19.1
+1521447743672	geckodriver	INFO	Listening on 127.0.0.1:63796
+1521447747016	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile.RT0tDi9yigb6"
+1521447788048	Marionette	INFO	Listening on port 63816
+1521447788952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=un&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=2&pwd=u&cb=jQuery110209278196487279469_1521447791410&_=1521447791413, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=uni&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=3&pwd=un&cb=jQuery110209278196487279469_1521447791410&_=1521447791414, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=7&pwd=unitte&cb=jQuery110209278196487279469_1521447791410&_=1521447791418, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=6&pwd=unitt&cb=jQuery110209278196487279469_1521447791410&_=1521447791417, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=u&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=1&cb=jQuery110209278196487279469_1521447791410&_=1521447791412, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=5&pwd=unit&cb=jQuery110209278196487279469_1521447791410&_=1521447791416, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=4&pwd=uni&cb=jQuery110209278196487279469_1521447791410&_=1521447791415, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1443_21101_17001_20719&req=2&csor=8&pwd=unittes&cb=jQuery110209278196487279469_1521447791410&_=1521447791419, line 1: TypeError: jQuery110209278196487279469_1521447791410 is not a function
+1521447795037	Marionette	INFO	New connections will no longer be accepted
